@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "636090495177",
+    "firebase_url": "https://fajri1202140198modul6.firebaseio.com",
+    "project_id": "fajri1202140198modul6",
+    "storage_bucket": "fajri1202140198modul6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636090495177:android:0572cd7efe7f383e",
+        "android_client_info": {
+          "package_name": "com.example.shiboo.fajri_1202140198_modul6"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636090495177-ckuaes819cka4evc5m8di8p9ss8j73mq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shiboo.fajri_1202140198_modul6",
+            "certificate_hash": "97adc2f852185bf40ce3792fa8692ebf8d702032"
+          }
+        },
+        {
+          "client_id": "636090495177-m7tu21iv61jncgccsros18lp9mt6tfui.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvN6AYXV6DBzAArsb4jATSu0tjDDI_MFA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "636090495177-m7tu21iv61jncgccsros18lp9mt6tfui.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
